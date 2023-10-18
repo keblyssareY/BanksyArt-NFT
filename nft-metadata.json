@@ -1,0 +1,15 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Breed",
+        "value": "Maltipoo"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Mocha"
+      }
+    ],
+    "description": "",
+    "image": "ipfs://QmYjoi7sHBuBQFM58DDnXQGzT4z1Lhs9cqUJcazE7sx8uL",
+    "name": "stalin"
+  }
